@@ -1,8 +1,0 @@
-{
-  "name": "Videoteka Repo",
-  "description": "Videoteka.info - filmovi i serije sa prevodom (CloudStream 3)",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://gabac198-cmd.github.io/videoteka-repo/plugins.json"
-  ]
-}
