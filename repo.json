@@ -1,0 +1,8 @@
+{
+    "name": "Videoteka Repo",
+    "description": "Videoteka.info plugin za CloudStream 3",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://YOUR-DOMAIN.example/videoteka/plugins.json"
+    ]
+}

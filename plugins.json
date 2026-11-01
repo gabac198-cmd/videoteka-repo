@@ -1,0 +1,21 @@
+[
+    {
+        "url": "https://YOUR-DOMAIN.example/videoteka/VideotekaPlugin.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Videoteka",
+        "internalName": "VideotekaPlugin",
+        "authors": ["TeraAI"],
+        "description": "Videoteka.info - filmovi i serije (bs/hr/sr)",
+        "fileSize": 20641,
+        "repositoryUrl": "https://YOUR-DOMAIN.example/videoteka/repo.json",
+        "language": "bs",
+        "tvTypes": ["Movie", "TvSeries"],
+        "iconUrl": "",
+        "apiVersion": 1,
+        "fileHash": "sha256-c828e9996a7a2d012ac1e94649b2a91bd4ec6d61b794da37f910a69538ff8c86",
+        "jarUrl": "https://YOUR-DOMAIN.example/videoteka/VideotekaPlugin.cs3",
+        "jarFileSize": 20641,
+        "jarHash": "sha256-c828e9996a7a2d012ac1e94649b2a91bd4ec6d61b794da37f910a69538ff8c86"
+    }
+]
