@@ -2,17 +2,17 @@
   {
     "url": "https://gabac198-cmd.github.io/videoteka-repo/VideotekaPlugin.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
+    "apiVersion": 1,
     "name": "Videoteka",
     "internalName": "VideotekaPlugin",
     "authors": ["TeraAI"],
     "description": "Videoteka.info - filmovi i serije sa prevodom",
-    "language": "bs",
+    "repositoryUrl": "https://gabac198-cmd.github.io/videoteka-repo/repo.json",
     "tvTypes": ["Movie", "TvSeries"],
+    "language": "bs",
     "iconUrl": "https://www.google.com/s2/favicons?domain=videoteka.info&sz=256",
-    "apiVersion": 1,
-    "fileSize": 31157,
-    "hash": "a548f526a34e830371498b9dac9d9094c0db053a90c232a832edd99254757118",
-    "repositoryUrl": "https://gabac198-cmd.github.io/videoteka-repo/repo.json"
+    "fileSize": 34127,
+    "fileHash": "sha256-ee9f3b72b9ee50b958eb20e51fd0e111a56c60bd15611f8347da8fde9eeb1e9f"
   }
 ]
