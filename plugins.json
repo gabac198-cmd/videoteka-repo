@@ -1,6 +1,6 @@
 [
     {
-        "url": "VideotekaPlugin.cs3",
+        "url": "https://gabac198-cmd.github.io/videoteka-repo/VideotekaPlugin.cs3",
         "status": 1,
         "version": 2,
         "name": "Videoteka",
@@ -10,7 +10,7 @@
         ],
         "description": "Videoteka.info - filmovi i serije (bs/hr/sr)",
         "fileSize": 28053,
-        "repositoryUrl": "repo.json",
+        "repositoryUrl": "https://gabac198-cmd.github.io/videoteka-repo/repo.json",
         "language": "bs",
         "tvTypes": [
             "Movie",
@@ -19,7 +19,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=videoteka.info",
         "apiVersion": 1,
         "fileHash": "sha256-57a99744031cd7207aee2057afb505d3d1b2b9fe00d3425116f9777f09d8f6ec",
-        "jarUrl": "VideotekaPlugin.cs3",
+        "jarUrl": "https://gabac198-cmd.github.io/videoteka-repo/VideotekaPlugin.cs3",
         "jarFileSize": 28053,
         "jarHash": "sha256-57a99744031cd7207aee2057afb505d3d1b2b9fe00d3425116f9777f09d8f6ec"
     }

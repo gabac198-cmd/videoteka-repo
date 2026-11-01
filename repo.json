@@ -3,6 +3,6 @@
     "description": "Videoteka.info - filmovi i serije sa prevodom",
     "manifestVersion": 1,
     "pluginLists": [
-        "plugins.json"
+        "https://gabac198-cmd.github.io/videoteka-repo/plugins.json"
     ]
 }
