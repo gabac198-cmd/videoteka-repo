@@ -1,8 +1,0 @@
-{
-  "name": "Videoteka Repo",
-  "description": "Videoteka.info plugin za CloudStream 3",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/gabac198-cmd/videoteka-repo/main/plugins.json"
-  ]
-}
