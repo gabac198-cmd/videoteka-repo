@@ -2,7 +2,7 @@
   {
     "url": "https://raw.githubusercontent.com/gabac198-cmd/videoteka-repo/main/VideotekaPlugin.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "Videoteka",
     "internalName": "VideotekaPlugin",
     "authors": ["TeraAI"],
@@ -11,8 +11,8 @@
     "tvTypes": ["Movie", "TvSeries"],
     "iconUrl": "https://www.google.com/s2/favicons?domain=videoteka.info&sz=256",
     "apiVersion": 1,
-    "fileSize": 35412,
-    "hash": "83e640fcbf97eca7575df9b6ac527aa472a44225948c80953bb40f05805d7dfb",
+    "fileSize": 35574,
+    "hash": "e3bb1faccaf4d1c58b5294d35a1451435ab78d0ab964ceb3f0eaa196bd44af1a",
     "repositoryUrl": "https://gabac198-cmd.github.io/videoteka-repo/repo.json"
   }
 ]
