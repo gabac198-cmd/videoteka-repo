@@ -1,21 +1,26 @@
 [
     {
-        "url": "https://YOUR-DOMAIN.example/videoteka/VideotekaPlugin.cs3",
+        "url": "VideotekaPlugin.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "Videoteka",
         "internalName": "VideotekaPlugin",
-        "authors": ["TeraAI"],
+        "authors": [
+            "TeraAI"
+        ],
         "description": "Videoteka.info - filmovi i serije (bs/hr/sr)",
-        "fileSize": 20641,
-        "repositoryUrl": "https://YOUR-DOMAIN.example/videoteka/repo.json",
+        "fileSize": 28053,
+        "repositoryUrl": "repo.json",
         "language": "bs",
-        "tvTypes": ["Movie", "TvSeries"],
-        "iconUrl": "",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=videoteka.info",
         "apiVersion": 1,
-        "fileHash": "sha256-c828e9996a7a2d012ac1e94649b2a91bd4ec6d61b794da37f910a69538ff8c86",
-        "jarUrl": "https://YOUR-DOMAIN.example/videoteka/VideotekaPlugin.cs3",
-        "jarFileSize": 20641,
-        "jarHash": "sha256-c828e9996a7a2d012ac1e94649b2a91bd4ec6d61b794da37f910a69538ff8c86"
+        "fileHash": "sha256-57a99744031cd7207aee2057afb505d3d1b2b9fe00d3425116f9777f09d8f6ec",
+        "jarUrl": "VideotekaPlugin.cs3",
+        "jarFileSize": 28053,
+        "jarHash": "sha256-57a99744031cd7207aee2057afb505d3d1b2b9fe00d3425116f9777f09d8f6ec"
     }
 ]

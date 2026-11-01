@@ -1,8 +1,8 @@
 {
-    "name": "Videoteka Repo",
-    "description": "Videoteka.info plugin za CloudStream 3",
+    "name": "Videoteka",
+    "description": "Videoteka.info - filmovi i serije sa prevodom",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://YOUR-DOMAIN.example/videoteka/plugins.json"
+        "plugins.json"
     ]
 }
