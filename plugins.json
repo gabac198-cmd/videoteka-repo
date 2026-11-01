@@ -1,7 +1,7 @@
 [
   {
     "url": "https://gabac198-cmd.github.io/videoteka-repo/VideotekaPlugin.cs3",
-    "version": 10,
+    "version": 11,
     "name": "Videoteka",
     "internalName": "VideotekaPlugin",
     "description": "Videoteka.info - filmovi i serije sa prevodom",
@@ -14,7 +14,7 @@
       "TvSeries"
     ],
     "status": 1,
-    "fileSize": 50555,
-    "sha256": "4eeadf01e7c66a5827d54d017852eccf886da3979498db90c65654de3e497601"
+    "fileSize": 55549,
+    "sha256": "ea06c9b1fd845b7487e0b25d96cad3ffcf058e1da03290b6cb229602806fbc28"
   }
 ]
